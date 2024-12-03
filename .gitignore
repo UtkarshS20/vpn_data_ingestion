@@ -1,3 +1,4 @@
 env/
 .env
 configs
+data/
